@@ -1,0 +1,73 @@
+user 11676
+
+--------------precision aa gaya re bhai
+140.0
+57
+--------------recall aa gaya re bhai
+57
+1957
+0.02912621359223301
+
+
+
+
+user 189835
+
+--------------precision aa gaya re bhai
+129.65083483825185
+38
+--------------recall aa gaya re bhai
+38
+523
+0.07265774378585087
+
+
+user 98391
+--------------precision aa gaya re bhai
+29.5
+9
+0.6722222222222223
+--------------recall aa gaya re bhai
+9
+547
+0.016453382084095063
+
+--------------precision aa gaya re bhai
+32.0
+17
+0.8117647058823529
+--------------recall aa gaya re bhai
+17
+1685
+0.010089020771513354
+
+
+
+
+
+
+
+user 254
+
+--------------precision aa gaya re bhai
+12.057142857142857
+7
+0.8277551020408164
+--------------recall aa gaya re bhai
+7
+19
+0.3684210526315789
+
+
+euclidean 
+
+--------------precision aa gaya re bhai
+0.3333333333333339
+1
+0.9666666666666666
+--------------recall aa gaya re bhai
+1
+11
+0.09090909090909091
+
+

@@ -1,0 +1,2 @@
+1) in readDataset change the second attribute of prefs from bookName to bookId
+2) cosine score
